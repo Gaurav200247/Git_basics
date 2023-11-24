@@ -2,3 +2,7 @@ body{
     background-color: rgb(44,44,44);
     color: lightblue;
 }
+
+h1{
+    font-size: 8rem;
+}
