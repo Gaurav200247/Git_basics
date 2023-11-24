@@ -1,2 +1,2 @@
 # Git_basics
-Authot - Gaurav
+Author - Gaurav
