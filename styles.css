@@ -3,6 +3,13 @@ body{
     color: lightblue;
 }
 
+div{
+    display: block;
+    width: 100%;
+    height: 100vh;
+}
+
 h1{
-    font-size: 8rem;
+    font-size: 5rem;
+    text-align: center;
 }
